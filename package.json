@@ -1,0 +1,23 @@
+{
+  "name": "node-katas-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaltzApp/node-katas-interview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WaltzApp/node-katas-interview/issues"
+  },
+  "homepage": "https://github.com/WaltzApp/node-katas-interview#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
